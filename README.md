@@ -1,16 +1,12 @@
-### Hi there 👋
+### Vitor Fernandes - Mobile & Web developer
 
-<!--
-**therock24/therock24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi! My name is Vitor Fernandes, I am a Software engineer passionate about building robust solutions for real world problems.
+- 🔭 I'm a Mobile and Web developer, recently been working mostly on Android.
+- 🌱 I’m currently learning both Backend and Frontend Web development in the Javascript world (Node.js, Next.js, React, Tailwind CSS)
+- 👯 I’m looking to collaborate on projects that bring value to the world.
+- 🤔 I’m looking for help to learn new frameworks and build fun side-projects.
+- 💬 I like to discuss technology, finance, self-development, sports, cycling and I love cars too.
+- 📫 How to reach me: https://www.linkedin.com/in/vitorlfernandes/
+- 😄 Soft Skills: Hard-working, Fast Learner, Versatile, Team Player, Problem Solver
+- ⚡ Fun fact: I can write 90 WPM in typing tests (good enough)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
