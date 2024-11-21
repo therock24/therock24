@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on projects that bring value to the world.
 - 🤔 I’m looking for help to learn new frameworks and build fun side-projects.
 - 💬 I like to discuss technology, finance, self-development, sports, cycling and I love cars too.
+- 👷 You can check my portfolio page here: https://therock24.github.io/
 - 📫 How to reach me: https://www.linkedin.com/in/vitorlfernandes/
 - 😄 Soft Skills: Hard-working, Fast Learner, Versatile, Team Player, Problem Solver
 - ⚡ Fun fact: I can write 90 WPM in typing tests (good enough)
