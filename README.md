@@ -1,7 +1,7 @@
 ### Vitor Fernandes - Mobile & Web developer
 
 - 👋 Hi! My name is Vitor Fernandes, I am a Software engineer passionate about building robust solutions for real world problems.
-- 🔭 I'm a Mobile Software Engineer, recently been working mostly on Android, for the past 5 years. Also, versatile in linux system, CI/CD, infrastructure configuration.
+- 🔭 I'm a Mobile Software Engineer, recently been working mostly on Android, for the past 6 years. Also, versatile in linux system, CI/CD, infrastructure configuration.
 -  I have also worked with mobile cross-platform, specially Flutter professionally, but also React Native in some side projects.
 - 🌱 On my spare time, I'm learning both Backend and Frontend Web development in the Javascript world (Node.js, Next.js, React, Tailwind CSS)
 - 👯 I’m looking to collaborate on projects that bring value to the world.
